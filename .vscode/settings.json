@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "cmath": "cpp"
+    },
+    "python.pythonPath": "D:\\Users\\purple\\Program\\Anaconda\\envs\\python3.7\\python.exe"
+}
